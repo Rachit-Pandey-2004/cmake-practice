@@ -1,0 +1,3 @@
+/home/omen/Project/c-temp/step1_dir/build/CMakeFiles/Tutorial1.dir
+/home/omen/Project/c-temp/step1_dir/build/CMakeFiles/edit_cache.dir
+/home/omen/Project/c-temp/step1_dir/build/CMakeFiles/rebuild_cache.dir
