@@ -100,6 +100,7 @@ We use a template header file and change the variable in it using the *configure
 - TutorialConfig.h is an output which is generated after changing the version values in the input template.
 ### 3. Generate the Header file template :
 This contain placeholder value that will be replaced by CMake
+>TutorialConfig.h.in
 ```ruby
 #define Tutorial_VERSION_MAJOR @Tutorial_VERSION_MAJOR@
 #define Tutorial_VERSION_MINOR @Tutorial_VERSION_MINOR@
