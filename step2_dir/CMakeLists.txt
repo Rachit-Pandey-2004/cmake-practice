@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(Tutorial2 VERSION 0.1)
+add_executable(Tutorial2 tutorial2.cpp)
+target_include_directories(Tutorial2 PUBLIC "${PROJECT_BINARY_DIR}")
+add_subdirectory(libraries)
+target_link_libraries(Tutorial2 PUBLIC libraries)

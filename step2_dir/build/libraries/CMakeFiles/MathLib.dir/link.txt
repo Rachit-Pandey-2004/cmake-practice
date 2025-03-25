@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc libMathLib.a CMakeFiles/MathLib.dir/mysqrt.cpp.o CMakeFiles/MathLib.dir/MathFunctions.cpp.o
+/usr/bin/llvm-ranlib libMathLib.a
